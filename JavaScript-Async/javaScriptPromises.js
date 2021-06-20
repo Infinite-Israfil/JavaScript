@@ -36,6 +36,6 @@ let thePromise = new Promise(function(myResolve, myReject) {
 thePromise.then((value) => {
     myDisplayer(value);
 }, (error) => {
-    myDisplayer(value);
+    myDisplayer(error);
 });
 
