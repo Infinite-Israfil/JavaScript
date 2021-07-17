@@ -17,7 +17,7 @@ const person = {
     lastName: "Doe",
     age: 50,
     eyeColor: "blue"
-}; // Space and line breaks are not important.an object definition can span multiple lines
+}; // Space and line breaks are not important. an object definition can span multiple lines
 
 
 
